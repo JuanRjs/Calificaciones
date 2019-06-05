@@ -1,0 +1,220 @@
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\Calificaciones.dll.config
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\Calificaciones.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\Calificaciones.pdb
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\csc.exe
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\csc.exe.config
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\csc.rsp
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\csi.exe
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\csi.exe.config
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\csi.rsp
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.AppContext.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Console.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.IO.Compression.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Security.Claims.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.ValueTuple.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\vbc.exe
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\vbc.exe.config
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\vbc.rsp
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csprojAssemblyReference.cache
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CopyComplete
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.dll
+C:\Users\Juan Rojas A\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\Calificaciones.dll.config
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\Calificaciones.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\Calificaciones.pdb
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\csc.exe
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\csc.exe.config
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\csc.rsp
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\csi.exe
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\csi.exe.config
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\csi.rsp
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.AppContext.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Console.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.IO.Compression.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.IO.Pipes.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Security.Claims.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.ValueTuple.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Xml.XPath.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\vbc.exe
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\vbc.exe.config
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\vbc.rsp
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csprojAssemblyReference.cache
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CopyComplete
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\obj\Debug\Calificaciones.dll
+C:\Users\52092497\Desktop\cali\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\Calificaciones.dll.config
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\Calificaciones.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\Calificaciones.pdb
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\csc.exe
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\csc.exe.config
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\csc.rsp
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\csi.exe
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\csi.exe.config
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\csi.rsp
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.AppContext.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Console.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.IO.Compression.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Security.Claims.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.ValueTuple.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\vbc.exe
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\vbc.exe.config
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\vbc.rsp
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csprojAssemblyReference.cache
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CopyComplete
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\obj\Debug\Calificaciones.dll
+C:\Users\Juan Rojas A\Desktop\Calificaciones Pre Final\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\Calificaciones.dll.config
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\Calificaciones.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\Calificaciones.pdb
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\csc.exe
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\csc.exe.config
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\csc.rsp
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\csi.exe
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\csi.exe.config
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\csi.rsp
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.AppContext.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Console.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.IO.Compression.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.IO.Pipes.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Security.Claims.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.ValueTuple.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Xml.XPath.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\vbc.exe
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\vbc.exe.config
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\vbc.rsp
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csprojAssemblyReference.cache
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CopyComplete
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\obj\Debug\Calificaciones.dll
+C:\Users\52092497\Desktop\cali\caliii\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
